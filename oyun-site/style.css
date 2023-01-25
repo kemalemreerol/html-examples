@@ -1,0 +1,18 @@
+/* FUZZ BUBLESS SİTESİNDE VERİLEN FONTLARI KULLANMAKTAYIZ. İMPORTANTI SEÇİP LİNKİ BURAYA ATABİLİRSİNİZ. YADA LİNKLERE TIKLAYIP HER FONTU AYRI AYRI H BLOKOLARININ İÇİNE YAPIŞTRABİLİRSİN.*/
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&family=Oswald:wght@300&family=Roboto+Mono:wght@200;400&display=swap');
+body{
+    background-color: aliceblue;
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    color: white;
+    letter-spacing: 5px;
+    background-color: 
+    font-weight 500;
+    font-family: 'Courier New', Courier, monospace
+}
+a{
+    color: aquamarine;
+    text-decoration: none;
+
+}
